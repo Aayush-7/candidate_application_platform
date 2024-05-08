@@ -1,0 +1,18 @@
+.header-container {
+    display: flex;
+    justify-content: left;
+    /* margin: auto 10px auto 10px; */
+    padding: 10px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  #header-div {
+    text-align: center;
+    margin: auto 20px;
+  }
+  
+  #header-text {
+    font-size: 22px;
+  }
+  
